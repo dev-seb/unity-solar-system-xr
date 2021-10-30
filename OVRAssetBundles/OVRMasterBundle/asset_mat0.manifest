@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 4142027666
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51e60a7ebdcadf5c423753b09249bc41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Materials/Uranus.mat
+- Assets/Materials/Mercury.mat
+- Assets/Materials/Skybox.mat
+- Assets/Materials/Mars.mat
+- Assets/Materials/Sun.mat
+- Assets/Materials/Neptune.mat
+- Assets/Materials/SaturnRings.mat
+- Assets/Materials/Earth.mat
+- Assets/Materials/Jupiter.mat
+- Assets/Materials/Moon.mat
+- Assets/Materials/Venus.mat
+- Assets/Materials/Saturn.mat
+Dependencies:
+- C:/Users/cools/Documents/Projects/StellAR/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/cools/Documents/Projects/StellAR/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/cools/Documents/Projects/StellAR/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/cools/Documents/Projects/StellAR/OVRAssetBundles/OVRMasterBundle/asset_jpg0

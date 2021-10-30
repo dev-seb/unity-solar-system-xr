@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1822262857
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed67297d4d709562da257cd848273f8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 54bdaa00dcc9838de4cf322ad2c16aa3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30f4b897495c7ad40b2d47143e02aaba, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/PostProcessing/PostProcessingProfile.asset
+- Packages/com.unity.postprocessing/PostProcessing/PostProcessResources.asset
+Dependencies:
+- C:/Users/cools/Documents/Projects/StellAR/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/cools/Documents/Projects/StellAR/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/cools/Documents/Projects/StellAR/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/cools/Documents/Projects/StellAR/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/cools/Documents/Projects/StellAR/OVRAssetBundles/OVRMasterBundle/asset_compute0
+- C:/Users/cools/Documents/Projects/StellAR/OVRAssetBundles/OVRMasterBundle/asset_tga0

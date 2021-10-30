@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2836423354
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce7005eeb732129e930ed92ae8e95bcd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Packages/com.unity.postprocessing/PostProcessing/Textures/SMAA/SearchTex.tga
+- Packages/com.unity.postprocessing/PostProcessing/Textures/SMAA/AreaTex.tga
+Dependencies: []

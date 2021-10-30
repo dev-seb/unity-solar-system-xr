@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3864991375
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95cc4bf02614bf340efc4258c3c57347
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/8k_stars_milky_way.jpg
+- Assets/Textures/2k_neptune.jpg
+- Assets/Textures/8k_mercury.jpg
+- Assets/Textures/8k_saturn.jpg
+- Assets/Textures/8k_mars.jpg
+- Assets/Textures/8k_sun.jpg
+- Assets/Textures/8k_jupiter.jpg
+- Assets/Textures/2k_sun.jpg
+- Assets/Textures/8k_earth_daymap.jpg
+- Assets/Textures/8k_moon.jpg
+- Assets/Textures/2k_uranus.jpg
+- Assets/Textures/8k_venus_atmosphere.jpg
+Dependencies: []
